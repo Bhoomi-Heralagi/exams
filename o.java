@@ -5,6 +5,8 @@ public class o {
 		System.out.println("welcome to gpt");
 		System.out.println("welcome to gpt");
 		System.out.println("welcome to gpt");
+        System.out.println("welcome to gpt");
+	    System.out.println("welcome to gpt");
 	}
 
 }
